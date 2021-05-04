@@ -1,0 +1,29 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: sans-serif;
+    background: url(elma.jpg);
+    background-size: 25%;
+ opacity: 90%;
+    
+
+}
+.login-box{
+    width: 400px;
+    height: 250px;
+    text-align: center;
+    color: green;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 30px;
+        border-bottom-width: 20px;
+    border-top-width: 5px;
+    border-left-width: 5px;
+    border-right-width: 5px;
+}
+
